@@ -41,6 +41,8 @@ def main():
         case _:
             print("Invalid entry")
 
+    print("\nDone.")
+
 
 if __name__ == "__main__":
     main()
