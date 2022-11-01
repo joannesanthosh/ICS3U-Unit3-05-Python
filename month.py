@@ -6,7 +6,7 @@
 
 
 def main():
-    # this function checks your grade
+    # this function checks the month
 
     # input
     grade_level = input("Enter month as a single number (ex: 1, 2, 3 ...): ")
